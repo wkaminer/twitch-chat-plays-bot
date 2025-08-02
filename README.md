@@ -1,4 +1,6 @@
 # Twitch Chat Plays Bot
+[![Image from Gyazo](https://i.gyazo.com/b478dd722351372d9032fa785625bf89.png)](https://gyazo.com/b478dd722351372d9032fa785625bf89)
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 
