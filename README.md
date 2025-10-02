@@ -103,4 +103,4 @@ A Python script for Twitch Chat interaction with almost any game.
 ###### * Testing will be unresponsive from host machine running the script.
 ###### You will need to test from another device, or get a friend to login to Twitch and test inputs that way.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R41IRTXZ)
+[![Tip me on Gumroad](https://img.shields.io/badge/Tip%20me%20on-Gumroad-ff90e8?logo=gumroad&logoColor=white&style=for-the-badge)](https://wkaminer.gumroad.com/l/imgmb)
